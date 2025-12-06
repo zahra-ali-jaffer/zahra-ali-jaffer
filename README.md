@@ -1,5 +1,5 @@
 <h2 align="center">🌷 Hi, I'm Zahra 🌷</h2>
-<p align="center">2nd-year Computer Science student building cozy, creative web projects.</p>
+<p align="center">2nd-year Computer Science student building creative web projects.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-ffb3c6?style=for-the-badge" />

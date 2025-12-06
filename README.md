@@ -12,7 +12,6 @@
 ### 🌸 About Me
 - 🎀 2nd-year CS student  
 - 🌱 Learning front-end + UI design   
-- 🍵 Loves aesthetic interfaces & soft colors  
 - ✨ Always experimenting with new ideas  
 
 ---

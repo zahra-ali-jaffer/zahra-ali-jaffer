@@ -1,16 +1,24 @@
-## Hi there 👋
+<h2 align="center">🌷 Hi, I'm Zahra 🌷</h2>
+<p align="center">2nd-year Computer Science student building cozy, creative web projects.</p>
 
-<!--
-**zahra-ali-jaffer/zahra-ali-jaffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-ffb3c6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-b7d3f2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-ffe8a3?style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌸 About Me
+- 🎀 2nd-year CS student  
+- 🌱 Learning front-end + UI design   
+- 🍵 Loves aesthetic interfaces & soft colors  
+- ✨ Always experimenting with new ideas  
+
+---
+### 🛠️ Skills & Tech Stack
+
+**Languages:** Python | Java   
+**Web:** HTML | CSS | JavaScript | React  
+**AI/ML:** TensorFlow | PyTorch   
+**Tools:** Git | GitHub | VSCode | Figma  

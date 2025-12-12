@@ -12,9 +12,7 @@
 ---
 
 ### 🌸 About Me
-- 🎀 2nd-year CS student  
-- 🌱 Learning front-end + UI design   
-- ✨ Always experimenting with new ideas  
+I’m a second-year Computer Science student at Aston University with a strong interest in software engineering, AI, and user-focused design. I enjoy building creative and practical digital solutions that blend technical skill with thoughtful design.
 
 ---
 ### 🛠️ Skills & Tech Stack

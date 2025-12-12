@@ -12,7 +12,7 @@
 ---
 
 ### 🌸 About Me
-I’m a second-year Computer Science student at Aston University with a strong interest in software engineering, AI, and user-focused design. I enjoy building creative and practical digital solutions that blend technical skill with thoughtful design.
+I’m a second-year Computer Science student at Aston University with a strong interest in software engineering, AI, and creating user-focused digital solutions. I enjoy building projects that combine creativity with technical problem-solving, and I’m proficient in HTML, CSS, JavaScript, Python, Java, and modern development tools.
 
 ---
 ### 🛠️ Skills & Tech Stack
